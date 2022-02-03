@@ -1,5 +1,5 @@
 ---
-layout: page-with-side-nav
+layout: landing-page
 title: Hoe kun je aansluiten
 ---
 # Hoe kun je aansluiten?
