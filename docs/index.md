@@ -1,3 +1,7 @@
+---
+layout: page-with-side-nav
+title: Imvertor algemee
+---
 # Imvertor-algemeen
 
 Deze repo bevat algemene informatie m.b.t. Imvertor. Je vind hier:
