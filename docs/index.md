@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Imvertor algemee
+title: Imvertor algemeen
 ---
 # Imvertor-algemeen
 
