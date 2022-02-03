@@ -4,8 +4,8 @@ title: Contactinformatie
 ---
 # Contactinformatie
 
-**Armatiek**: Arjan Loeffen
+Voor meer informatie m.b.t. Imvertor kun je contact opnemen met: 
 
-**Kadaster**: Lennart van Bergen
-
-**VNG Realisatie**: Robert Melskens
+Arjan Loeffen
+Armatiek
+E-mail: ...
