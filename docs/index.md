@@ -1,3 +1,7 @@
 # Imvertor-algemeen
 
-Deze repo bevat algemene informatie m.b.t. Imvertor, inleidend op het gebruik van Imvertor, de Imvertor SAAS applicatie en de organisatie specifieke documentatie.
+Deze repo bevat algemene informatie m.b.t. Imvertor. Je vind hier:
+* een inleiding op het gebruik van Imvertor
+* een uitleg m.b.t. de Imvertor SAAS applicatie
+* organisatie overstijgende documentatie
+* organisatie specifieke documentatie
