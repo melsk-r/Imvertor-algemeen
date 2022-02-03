@@ -20,4 +20,6 @@ title: Imvertor gebruikende organisaties
 
 ## KOOP
 
+## Waarderingskamer
+
 ## ...
