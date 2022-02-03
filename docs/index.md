@@ -11,4 +11,4 @@ Deze site bevat algemene informatie m.b.t. Imvertor. Je vind hier:
 * organisatie specifieke documentatie
 * anderssoortige documentatie
 * een lijst met Imvertor gebruikende organisaties en hun contactpersonen
-* informatie over de mogelijkheden om aan te sluiten
+* informatie over de mogelijkheden om aan te sluiten 
