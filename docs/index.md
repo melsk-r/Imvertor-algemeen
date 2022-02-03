@@ -5,3 +5,4 @@ Deze repo bevat algemene informatie m.b.t. Imvertor. Je vind hier:
 * een uitleg m.b.t. de Imvertor SAAS applicatie
 * organisatie overstijgende documentatie
 * organisatie specifieke documentatie
+* anderssoortige documentatie
