@@ -4,7 +4,7 @@ title: Imvertor algemeen
 ---
 # Imvertor-algemeen
 
-Deze repo bevat algemene informatie m.b.t. Imvertor. Je vind hier:
+Deze site bevat algemene informatie m.b.t. Imvertor. Je vind hier:
 * een inleiding op het gebruik van Imvertor
 * een uitleg m.b.t. de Imvertor SAAS applicatie
 * organisatie overstijgende documentatie
