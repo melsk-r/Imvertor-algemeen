@@ -1,5 +1,5 @@
 ---
-layout: page-with-side-nav
+layout: landing-page
 title: Onderwerp 2
 ---
 # Onderwerp 2
