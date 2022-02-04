@@ -14,12 +14,12 @@ title: Imvertor gebruikende organisaties
 
 ## Informatiehuis Water (IHW)
 
-## Koninklijke Notariële Bond (KNB)
+## Koninklijke Notariële Beroepsorgtanisatie (KNB)
 
 ## Basisregistratie Ondergrond (BRO)
 
-## KOOP
-
 ## Waarderingskamer
+
+## BIJ12
 
 ## ...
