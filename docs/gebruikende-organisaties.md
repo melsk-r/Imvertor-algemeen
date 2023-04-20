@@ -4,22 +4,24 @@ title: Imvertor gebruikende organisaties
 ---
 # Imvertor gebruikende organisaties
 
-## Kadaster
-
-## Geonovum
-
-## VNG Realisatie
-
-## Kennisnet
-
-## Informatiehuis Water (IHW)
-
-## Koninklijke Notariële Beroepsorgtanisatie (KNB)
+## BIJ12
 
 ## Basisregistratie Ondergrond (BRO)
 
+## Geonovum
+
+## Informatiehuis Water (IHW)
+
+## Kadaster
+
+## Kennisnet
+
+## Koninklijke Notariële Beroepsorgtanisatie (KNB)
+
+## VNG Realisatie
+
 ## Waarderingskamer
 
-## BIJ12
+## TNO
 
 ## ..
